@@ -14,7 +14,7 @@ Développeur web passionné basé à Paris, je suis diplômé en Développement 
 
 ## 💻 Projets Principaux
 
-- [TeamMate](https://github.com/yu-Celik/TeamMate): Application de collaboration d'équipe
+- [TeamMate](https://github.com/yu-Celik/chat-app-teamate): Application de collaboration d'équipe
 - [AuthApp](https://github.com/yu-Celik/AuthApp): Solution d'authentification sécurisée avec Next.js et Prisma
 
 ## 🌟 Expérience Professionnelle
