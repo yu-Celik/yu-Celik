@@ -37,6 +37,7 @@ Je cherche à intégrer une équipe dynamique où je pourrai :
 
 - Email : celik.yus@outlook.com
 - LinkedIn : [Yusuf Celik](https://linkedin.com/in/yusuf-celik-70347a16a/)
+- Mon CV : [CV_CELIK](https://cvdesignr.com/p/65ddc7c939eb9)
 
 ---
 
