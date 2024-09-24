@@ -6,9 +6,9 @@ Développeur web passionné basé à Paris, je suis diplômé en Développement 
 
 ## 🚀 Compétences Techniques
 
-- **Frontend:** React.js, Next.js, JavaScript
-- **Backend:** Node.js, PHP
-- **Bases de données:** MongoDB, SQL, PostgreSQL
+- **Frontend:** React.js, Next.js, JavaScript/TypeScript
+- **Backend:** Node.js, PHP, Prisma
+- **Bases de données:** MongoDB, SQL
 - **Cloud & Infrastructure:** AWS
 - **Outils:** GitHub, Figma, PhpMyAdmin, WordPress
 
