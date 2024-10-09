@@ -2,7 +2,7 @@
 
 ## 🎯 À propos de moi
 
-Développeur web passionné basé à Paris, je suis diplômé en Développement Web et Web Mobile (DWWM, Bac+2). Actuellement à la recherche d'une opportunité d'apprentissage en alternance pour poursuivre vers un Bac+3/4 CDA ou un Master, je souhaite approfondir mes compétences au sein d'une entreprise innovante.
+Développeur web passionné, je suis diplômé en Développement Web et Web Mobile (DWWM, Bac+2). Actuellement à la recherche d'une opportunité d'apprentissage en alternance pour poursuivre vers un Bac+3/4 CDA ou un Master, je souhaite approfondir mes compétences au sein d'une entreprise innovante.
 
 ## 🚀 Compétences Techniques
 
