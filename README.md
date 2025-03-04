@@ -51,4 +51,4 @@ Je recherche activement des opportunités en alternance ou des collaborations po
 
 ---
 
-💡 Ouvert aux opportunités de collaboration, d’apprentissage et d’alternance. N’hésitez pas à me contacter pour discuter de projets passionnants !
+💡 Ouvert aux opportunités de collaboration, d’apprentissage et d’alternance. N’hésitez pas à me contacter !
