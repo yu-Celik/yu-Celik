@@ -15,7 +15,7 @@ Je suis un **Concepteur Développeur Full Stack** basé à Paris, doté d’une 
 
 ## 💻 Projets et Expériences
 
-### **Net Square Remote**
+### **Net Square**
 
 #### 🚀 Concepteur Développeur Full Stack
 - **Forum "script-seo"** : Refonte graphique, ajout de canaux audio et refactoring complet pour une navigation améliorée.
@@ -25,14 +25,15 @@ Je suis un **Concepteur Développeur Full Stack** basé à Paris, doté d’une 
 - Conception d’API REST et migration vers les dernières versions de PHP, JavaScript et SQL.
 - Gestion de projet en méthode SCRUM avec Trello et collaboration via GitHub.
 
-### **Afpa & Formations Complémentaires**
-- Développement d’applications web et mobiles (React, Symfony, PHP, Docker, .NET).
+### **Formations Complémentaires**
+- **Formation Concepteur Développeur d'Applications** (en cours) (React, Symfony, PHP, Docker, .NET).
+- Développement d’applications web et mobiles.
 - Formation en création de sites WordPress.
 
 ## 📚 Formation
 
-- **DWWM (Bac+2)** avec spécialisation en JavaScript, PHP, Symfony et React.  
-- **Formations complémentaires à l’Afpa** en développement d’applications et web mobile.  
+- **Formation Concepteur Développeur d'Applications** (en cours) (React, Symfony, PHP, Docker, .NET).
+- **Développement d’applications web et mobiles (Bac+2)** avec spécialisation en JavaScript, PHP, Symfony et React.  
 - **Licence de langue Arabe** (1re année validée).
 
 ## 🔍 Objectifs
