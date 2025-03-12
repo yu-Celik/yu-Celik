@@ -7,8 +7,8 @@ Je suis un **Concepteur Développeur Full Stack** basé à Paris, doté d’une 
 ## 🚀 Compétences Techniques
 
 - **Frontend:** React.js, Next.js, JavaScript/TypeScript  
-- **Backend:** Node.js, PHP, Prisma, Rust (intermédiaire)  
-- **Mobile:** React Native (intermédiaire)  
+- **Backend:** Node.js, PHP, Prisma, Rust
+- **Mobile:** React Native
 - **Bases de données:** MongoDB, SQL  
 - **Cloud & Infrastructure:** AWS, Docker  
 - **Outils:** GitHub, Figma, WordPress, Trello
