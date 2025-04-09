@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Yusuf CELIK</h1>
+<h1 align="center">Yusuf CELIK</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yu-Celik&style=flat-square&color=brightgreen" alt="Profile Views" />
 </p>
