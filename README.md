@@ -1,55 +1,60 @@
-# 👋 Salut, je suis Yusuf Celik!
-
-## 🎯 À propos de moi
-
-Je suis un **Concepteur Développeur Full Stack** basé à Paris, doté d’une solide expertise en développement web et mobile. Passionné par l’innovation, j’ai piloté divers projets allant de la refonte graphique à la création d’API sécurisées et performantes. Persévérant, perfectionniste et ouvert, j’adopte une approche agile pour mener à bien mes missions.
-
-## 🚀 Compétences Techniques
-
-- **Frontend:** React.js, Next.js, JavaScript/TypeScript  
-- **Backend:** Node.js, PHP, Prisma, Rust
-- **Mobile:** React Native
-- **Bases de données:** MongoDB, SQL  
-- **Cloud & Infrastructure:** AWS, Docker  
-- **Outils:** GitHub, Figma, WordPress, Trello
-
-## 💻 Projets et Expériences
-
-### **Net Square**
-
-#### 🚀 Concepteur Développeur Full Stack
-- **Forum "script-seo"** : Refonte graphique, ajout de canaux audio et refactoring complet pour une navigation améliorée.
-- **API SEMPRISM** : Conception et développement d’une API robuste intégrée à plusieurs codebases, incluant une optimisation en Rust et un renforcement de la sécurité.
-
-#### 💡 Développeur Full Stack (Projet SEMPRISM)
-- Conception d’API REST et migration vers les dernières versions de PHP, JavaScript et SQL.
-- Gestion de projet en méthode SCRUM avec Trello et collaboration via GitHub.
-
-### **Formations Complémentaires**
-- **Formation Concepteur Développeur d'Applications** (en cours) (React, Symfony, PHP, Docker, .NET).
-- Développement d’applications web et mobiles.
-- Formation en création de sites WordPress.
-
-## 📚 Formation
-
-- **Formation Concepteur Développeur d'Applications** (en cours) (React, Symfony, PHP, Docker, .NET).
-- **Développement d’applications web et mobiles (Bac+2)** avec spécialisation en JavaScript, PHP, Symfony et React.  
-- **Licence de langue Arabe** (1re année validée).
-
-## 🔍 Objectifs
-
-Je recherche activement des opportunités en alternance ou des collaborations pour :
-- Contribuer à des projets innovants en développement full stack.
-- Approfondir mes compétences techniques en frontend, backend et mobile.
-- Intégrer une équipe dynamique et collaborative.
-
-## 📫 Contact
-
-- **Email :** [celik.yus@outlook.com](mailto:celik.yus@outlook.com)  
-- **LinkedIn :** [Yusuf Celik](https://linkedin.com/in/yusuf-celik-70347a16a/)  
-- **GitHub :** [@yu-Celik](https://github.com/yu-Celik)  
-- **Mon CV :** [CV_CELIK](https://cvdesignr.com/p/65ddc7c939eb9)
+<h1 align="center">🚀 Yusuf CELIK</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yu-Celik&style=flat-square&color=brightgreen" alt="Profile Views" />
+</p>
 
 ---
 
-💡 Ouvert aux opportunités de collaboration, d’apprentissage et d’alternance. N’hésitez pas à me contacter !
+## 📊 Yusuf CELIK's GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yu-Celik&theme=tokyonight" alt="GitHub Streak" />
+  
+  <br /><br />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=yu-Celik&show_icons=true&theme=tokyonight&hide=contribs&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-Celik&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yu-Celik&theme=gruvbox" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hello there! I'm **Yusuf CELIK**, a passionate full-stack developer who loves building secure, clean and scalable web apps.  
+
+🧰 **Tech Stack**  
+- **Main**: TypeScript, Next.JS, Rust  
+- **Also**: Node/Express, React, Tailwind, Prisma, .NET
+
+🧠 Always learning about frontend best practices, secure APIs, and maintainable architecture.
+
+🌙 I usually code late at night — feel free to message me anytime, I’ll reply when the sun is up 🌞
+
+🔗 Let’s connect:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yusuf-celik-70347a16a/)[![GitHub](https://img.shields.io/badge/GitHub-Profile-24292e?style=flat&logo=github)](https://github.com/yu-Celik)
+
+---
+
+## 🇫🇷 À propos de moi
+
+Salut ! Moi c’est **Yusuf CELIK**, développeur full-stack en alternance à Paris, aime construire des applications web sécurisées, propres et évolutives..
+
+👨‍💻 Tech préférées :  
+- **TypeScript, Next.JS, Rust**  
+- J’utilise aussi Node/Express, React, Tailwind, Prisma, .NET...
+
+🎯 Objectif : écrire un code lisible, performant et durable.  
+💬 Curieux et motivé, j’adore échanger sur les bonnes pratiques et les projets ambitieux.
+
+---
+
+✨ *Build with ethics. Ship with purpose.*
